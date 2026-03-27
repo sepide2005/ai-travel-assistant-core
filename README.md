@@ -1,4 +1,5 @@
-# AI Travel Assistant – Core AI Logic
+# AI Travel Assistant (Simulation)
+A simplified AI system demonstrating how to build a context-aware travel chatbot with structured outputs and intelligent filtering.
 
 ## Overview
 This repository showcases core AI logic inspired by a real-world travel assistant project. The focus is on building a more intelligent and context-aware chatbot for travel recommendations.
@@ -20,7 +21,7 @@ This repository showcases core AI logic inspired by a real-world travel assistan
 - Improves response relevance using previous inputs
 
 ### 4. Image Integration
-- Integrated travel-related images using Unsplash API
+- Simulated travel-related image fetching (Unsplash-style)
 - Enhances user experience with dynamic visuals
 
 ### 5. Prompt Engineering
@@ -63,9 +64,20 @@ prompts.txt             # Example structured prompts
 
 ## Tech Stack
 - Python
-- FastAPI (conceptual)
-- OpenAI API (conceptual)
+- AI System Design
+- Prompt Engineering
+- REST API Concepts (FastAPI-inspired)
+- LLM Integration (OpenAI-style)
 - Git & GitHub
+
+## What This Project Demonstrates
+This project highlights my ability to:
+
+- Design AI-powered systems end-to-end
+- Structure and control LLM outputs
+- Build context-aware chatbot logic
+- Process and normalize user input
+- Integrate AI into backend-style architectures
 
 ## Note
 This repository is a simplified and non-confidential version of a real project. It is intended to demonstrate core AI concepts and implementation skills.
